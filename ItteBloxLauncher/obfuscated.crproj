@@ -1,4 +1,4 @@
-<project outputDir="C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\Confused" baseDir="C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher" xmlns="http://confuser.codeplex.com">
+<project outputDir="C:\Users\roblox\source\repos\ItteBloxLauncher\ItteBloxLauncher\Confused" baseDir="C:\Users\roblox\source\repos\ItteBloxLauncher\ItteBloxLauncher" xmlns="http://confuser.codeplex.com">
   <packer id="compressor" />
   <module path="bin\Release\ItteBloxLauncher.exe">
     <rule pattern="true" inherit="false" />
