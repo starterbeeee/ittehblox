@@ -1,0 +1,12 @@
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\bin\Release\ItteBloxLauncher.exe.config
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\bin\Release\ItteBloxLauncher.exe
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\bin\Release\ItteBloxLauncher.pdb
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\bin\Release\System.IO.Compression.dll
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.csproj.AssemblyReference.cache
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.LauncherWindow.resources
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.Properties.Resources.resources
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.csproj.GenerateResource.cache
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.csproj.CoreCompileInputs.cache
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.csproj.CopyComplete
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.exe
+C:\Users\aiden\source\repos\ItteBloxLauncher\ItteBloxLauncher\obj\Release\ItteBloxLauncher.pdb
